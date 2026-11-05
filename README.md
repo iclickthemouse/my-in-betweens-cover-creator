@@ -2,8 +2,8 @@
 
 A WebGL editor for the animated orb cover. No build step and no dependencies.
 
-**Live:** https://iclickthemose.github.io/my-in-betweens-cover-creator/
-**Original single-file prototype:** https://iclickthemose.github.io/my-in-betweens-cover-creator/prototype/
+**Live:** https://iclickthemouse.github.io/my-in-betweens-cover-creator/
+**Original single-file prototype:** https://iclickthemouse.github.io/my-in-betweens-cover-creator/prototype/
 
 ## Run it locally
 
